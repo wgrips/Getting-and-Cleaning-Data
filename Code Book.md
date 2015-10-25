@@ -1,4 +1,4 @@
-This is the code book for the <i>Getting and Cleaning Data<i> class project.
+This is the code book for the <i>Getting and Cleaning Data</i> class project.
 
 ##Project Description
 This project takes the data from Source 2 and creates a tidy data table of "mean" and "standard deviation" related measurements.
